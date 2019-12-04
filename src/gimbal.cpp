@@ -1,9 +1,9 @@
-/*
-File: Gimbal.cpp
-Author: Daniel Rehbein
-Authored Date: 191203
-Version: 0.0.1
-Description: Gimbal Control File for SkyCam Project
+/**
+ * File: Gimbal.cpp
+ * Author: Daniel Rehbein
+ * File Date: 191203
+ * File Version: 0.0.1
+ * Description: Gimbal Control File for SkyCam Project
 */
 
 // INCLUDES

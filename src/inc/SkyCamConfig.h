@@ -1,9 +1,9 @@
-/*
-File: SkyCamConfig.h
-Author: Daniel Rehbein
-Authored Date: 191204
-Version: 0.0.1
-Description: Prefix Header File for SkyCam Project
+/**
+ * File: SkyCamConfig.h
+ * Author: Daniel Rehbein
+ * File Date: 191204
+ * File Version: 0.0.1
+ * Description: Prefix Header File for SkyCam Project
 */
 
 #pragma once
