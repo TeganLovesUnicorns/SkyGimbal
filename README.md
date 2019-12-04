@@ -1,10 +1,10 @@
-*****************************************
-*                                       *
-*               Sky Gimbal              *
-*                                       *
-*****************************************
+# SkyGimbal
 
-TO-DO:
+## Description
+
+An Arduino based solution for a programmable gimbal that can autonomously run for an extended period of time without an opperator.
+
+## TO-DO:
 - Menu
   - To get user input for sky cam
     - Start Points of Gimbal
