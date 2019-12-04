@@ -17,3 +17,5 @@
 */
 
 #include "../../Configuration.h"
+
+#include "Version.h"

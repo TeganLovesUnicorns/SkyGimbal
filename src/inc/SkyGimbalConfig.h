@@ -13,3 +13,5 @@ Prefix Header for all SkyGimbal sources
 */
 
 #include "SkyGimbalConfigPre.h"
+
+#include "SanityCheck.h"
