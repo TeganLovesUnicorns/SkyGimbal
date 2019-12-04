@@ -3,13 +3,13 @@
  * Author: Daniel Rehbein
  * File Date: 191204
  * File Version: 0.0.1
- * Description: SkyCam Pre-config File for SkyCam Project
+ * Description: SkyGimbal Pre-config File for SkyGimbal Project
 */
 
 #pragma once
 
-#ifndef __SKYCAM_FIRMWARE__
-#define __SKYCAM_FIRMWARE__
+#ifndef __SKYGIMBAL_FIRMWARE__
+#define __SKYGIMBAL_FIRMWARE__
 #endif
 
 /**

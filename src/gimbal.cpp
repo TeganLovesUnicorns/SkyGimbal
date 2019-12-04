@@ -3,7 +3,7 @@
  * Author: Daniel Rehbein
  * File Date: 191203
  * File Version: 0.0.1
- * Description: Gimbal Control File for SkyCam Project
+ * Description: Gimbal Control File for SkyGimbal Project
 */
 
 // INCLUDES

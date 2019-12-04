@@ -3,13 +3,13 @@
  * Author: Daniel Rehbein
  * File Date: 191204
  * File Version: 1.0
- * Description: Version Control File for SkyCam Project
+ * Description: Version Control File for SkyGimbal Project
 */
 
 #pragma once
 
 /**
-* Release Version. Leave the SkyCam version or apply a custom scheme.
+* Release Version. Leave the SkyGimbal version or apply a custom scheme.
 */
 
 #ifndef SHORT_BUILD_VERSION
@@ -31,12 +31,12 @@
  * to alert users to major changes.
  */
 
-#define SKYCAM_HEX_VERSION 000001
+#define SKYGIMBAL_HEX_VERSION 000001
 #ifndef REQUIRED_CONFIGURATION_H_VERSION
-  #define REQUIRED_CONFIGURATION_H_VERSION SKYCAM_HEX_VERSION
+  #define REQUIRED_CONFIGURATION_H_VERSION SKYGIMBAL_HEX_VERSION
 #endif
 #ifndef REQUIRED_CONFIGURATION_ADV_H_VERSION
-  #define REQUIRED_CONFIGURATION_ADV_H_VERSION SKYCAM_HEX_VERSION
+  #define REQUIRED_CONFIGURATION_ADV_H_VERSION SKYGIMBAL_HEX_VERSION
 #endif
 
 /**
@@ -49,10 +49,10 @@
 #endif
 
 /**
- * Define a generic SkyCam name to be output to the LCD after booting SkyCam.
+ * Define a generic SkyGimbal name to be output to the LCD after booting SkyGimbal.
  */
 #ifndef MACHINE_NAME
-  #define MACHINE_NAME "SkyCam :)"
+  #define MACHINE_NAME "SkyGimbal :)"
 #endif
 
 /**
