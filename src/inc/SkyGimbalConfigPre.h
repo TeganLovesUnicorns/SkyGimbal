@@ -15,6 +15,7 @@
 /**
  * PREFIX HEADER TO AQUIRE CONFIGURATIONS
 */
+#include <Arduino.h>
 
 #include "../../Configuration.h"
 
