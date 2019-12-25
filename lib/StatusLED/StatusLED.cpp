@@ -29,7 +29,7 @@ void StatusLED::good()
 
 void StatusLED::error()
 {
-  if (statusLEDChrono.hasPassed(250)) {// returns true if it has been 500ms since it was started
+  if (statusLEDChrono.hasPassed(250)) {// returns true if it has been 250ms since it was started
     statusLEDChrono.restart(); // restarts crono to trigger later.
 
     // toggle stored state
