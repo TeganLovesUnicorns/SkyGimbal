@@ -22,7 +22,7 @@ void Morse::dot()
 void Morse::dash()
 {
   digitalWrite(_pin, HIGH);
-  delay(1000);
+  delay(500);
     digitalWrite(_pin, LOW);
   delay(250);
 }
