@@ -1,8 +1,8 @@
 /**
  * File: Version.h
  * Author: Daniel Rehbein
- * File Date: 191204
- * File Version: 1.0
+ * File Date: 191225
+ * File Version: 1.0.01
  * Description: Version Control File for SkyGimbal Project
 */
 
@@ -73,11 +73,11 @@
 /**   
  * 
  * The WEBSITE_URL is the location where users can get more information 
- * such as documentation about a specific Marlin release.
+ * such as documentation about a specific SkyGimbal release.
  * Displayed in the InfoMenu. 
  * */
 #ifndef WEBSITE_URL
-  #define WEBSITE_URL "http://marlinfw.org"
+  #define WEBSITE_URL "test.com"
 #endif
 
 // /**
