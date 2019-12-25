@@ -1,5 +1,14 @@
+/**
+ * File: Main.cpp
+ * Author: Daniel Rehbein
+ * File Date: 191224
+ * File Version: 0.0.1
+ * Description: Main File File for SkyGimbal Project
+*/
+
+// INCLUDES
 #include <Arduino.h>
-#include "StatusLED.h"
+#include <StatusLED.h>
 
 StatusLED statusLED(13);
 
