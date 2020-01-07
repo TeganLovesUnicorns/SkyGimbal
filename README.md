@@ -1,5 +1,11 @@
 # SkyGimbal
 
+## Arduino Library Dependancies
+
+- Chrono.h by Thomas O Fredericks
+- Servo.h by Michael Margolis
+- Adafruit Motor Shield V2 - Adafruit
+
 ## Description
 
 An Arduino based solution for a programmable gimbal that can autonomously run for an extended period of time without an opperator.
