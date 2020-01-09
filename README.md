@@ -18,6 +18,7 @@ An Arduino based solution for a programmable gimbal that can autonomously run fo
     - End Points of Gimbal
     - Duration of Travel
     - Distance of Travel
+    - Calibration
     - FUTURE - Choices of motion curves to make smooth or fast movements. (PID control)
 - **Memory**
   - Store user settings for gimbal in FLASH (PROGMEM keyword) and SRAM memory.
