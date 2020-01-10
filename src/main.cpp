@@ -9,6 +9,7 @@
 // INCLUDES
 #include <Arduino.h>
 #include <StatusLED.h>
+#include "inc/SkyGimbalConfig.h"
 
 StatusLED statusLED(13);
 
