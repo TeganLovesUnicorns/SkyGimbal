@@ -56,12 +56,12 @@
 #endif
 
 /**
- * Website where users can find Marlin source code for the binary installed on the
+ * Website where users can find SkyGimbal source code for the binary installed on the
  * device. Override this if you provide public source code download. (GPLv3 requires
  * providing the source code to your customers.)
  */
 #ifndef SOURCE_CODE_URL
-  #define SOURCE_CODE_URL "https://github.com/flyingguitarman/"
+  #define SOURCE_CODE_URL "https://github.com/flyingguitarman/SkyGimbal"
 #endif
 
 /**
@@ -77,7 +77,7 @@
  * Displayed in the InfoMenu. 
  * */
 #ifndef WEBSITE_URL
-  #define WEBSITE_URL "test.com"
+  #define WEBSITE_URL "https://github.com/flyingguitarman/SkyGimbal"
 #endif
 
 // /**
