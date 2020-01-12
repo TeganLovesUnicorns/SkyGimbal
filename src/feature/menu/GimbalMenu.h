@@ -11,8 +11,13 @@
 // Main Menu
 
 // Distance (How far the gimbal car travels down the wire.)
+/* 
+Input will be given in feet
+*/
 
 // Duration
+
+// Units (Feet or Meters)
 
 // Movement Points
 //// Up to 5 points with a minimum of 2 (starting and ending) 

@@ -5,6 +5,7 @@
 - Chrono.h by Thomas O Fredericks
 - Servo.h by Michael Margolis
 - Adafruit Motor Shield V2 - Adafruit
+- LiquidCrystal - Arduino
 
 ## Description
 
