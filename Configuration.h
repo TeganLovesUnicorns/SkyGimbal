@@ -14,6 +14,6 @@
  */
 
 
-#define D_RPM 2
+#define D_RPM 2000
 
 #define CONFIGURATION_H_VERSION 000001
