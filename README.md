@@ -31,4 +31,4 @@ An Arduino based solution for a programmable gimbal that can autonomously run fo
   - v2 - port all code to stepper motors
 - **Cart**
   - v0 - get stepper to rotate 1 rev CW and CCW
-  - v0.1 - add feedback sensor (HALL or OPTICAL)
+  - v0.1 - add feedback sensor ( OPTICAL)
